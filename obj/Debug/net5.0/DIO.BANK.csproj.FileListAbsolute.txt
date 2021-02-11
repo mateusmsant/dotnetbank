@@ -1,0 +1,16 @@
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\bin\Debug\net5.0\DIO.BANK.exe
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\bin\Debug\net5.0\DIO.BANK.deps.json
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\bin\Debug\net5.0\DIO.BANK.runtimeconfig.json
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\bin\Debug\net5.0\DIO.BANK.runtimeconfig.dev.json
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\bin\Debug\net5.0\DIO.BANK.dll
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\bin\Debug\net5.0\ref\DIO.BANK.dll
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\bin\Debug\net5.0\DIO.BANK.pdb
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.csprojAssemblyReference.cache
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.AssemblyInfoInputs.cache
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.AssemblyInfo.cs
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.csproj.CoreCompileInputs.cache
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.dll
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\ref\DIO.BANK.dll
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.pdb
+C:\Users\mateusmsant\Desktop\LocalizaLabs\DIO.BANK\obj\Debug\net5.0\DIO.BANK.genruntimeconfig.cache
